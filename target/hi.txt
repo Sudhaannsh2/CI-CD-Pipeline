@@ -1,0 +1,53 @@
+Q1.CVCD Pipeline fora Microservices Aplication
+[25 Marks]
+Scenario:
+Yen om wotine an mieroservietonued E ommeme sopoiuntion, You nmudt auonaude the bouild an deployment using Jenkins.
+Repository:https://github.com/sarasrija/microservices.git Task:
+1.
+2.
+3.
+Pull microservices code from GitHub.Build services using Maven or Gradle.
+Package the services into Docker containers.Push the Docker images to Docker Hub.
+6.
+Deploy containers using Dooker Compose or Kubernetes (minikube).Create a complete Jenkins pipeline.
+Expected Output:
+Jenkinsfile
+Docker images pushed
+Pipeline view
+Screenshot of microservices running
+[25 Marksl
+Q2.UML Design - Hospital Management System Scenario:
+A hospital wants to automate patient treatment workflow. The system should maintain Patients, Doctors, Appointments, Prescriptions, and Billing.
+Task:
+Using StarUML, draw a Class Diagram with classes, attributes, operations, relationships, and multiplicities.Expected Output:
+Clear UML Class Diagram for the Hospital Management System.
+
+3, Jmglement Gatlab weettuk for Met-Braneh Pipefine
+Scssarie
+You ate asked to configre a wethhorlk so teat different braeiches fig
+Taek
+1.
+2.
+3.
+4.
+Cofire Gidhuh wethook.
+Create a tmutibranch poipeliee in Jerkins.
+Pwsth separete comes to dev, set, and main bmanches.SMow that each branch trivgers ins omm bila.
+Vapocted Outpwt;
+Wehook sutip sereenshut
+AunoMriygered builds for each branch
+Jenkins unsole loe
+Q4, Deplry a Node, js Apolication on AWS VCL Using Docker uenare;
+Deploy a iode js application stored in GitHuo to an EC2 Ubunts instance, 
+Tasks
+1, 
+2多
+4, 
+5, 
+6
+I aunch an FC2 Ubuntu instance, Install Node js, Docker, and Git, Clone the application repo, 
+Write a Dockerfile for the Node js app, Build Docker imaye and run container, Acoess the app using EC2 public IP 
+Yxpeeted Output;
+EC2 instance runníng
+Docker build &, run proof
+Application accesible vía public IP
